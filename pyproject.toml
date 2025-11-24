@@ -1,0 +1,11 @@
+[project]
+name = "repostreamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.0.8",
+    "langchain-google-genai>=3.1.0",
+    "streamlit>=1.51.0",
+]
